@@ -16,4 +16,12 @@
       <module name="youxuan-util" target="8" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-util" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-util" options="-parameters" />
+      <module name="youxuan-model" options="-parameters" />
+    </option>
+  </component>
 </project>
