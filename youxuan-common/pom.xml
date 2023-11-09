@@ -28,6 +28,8 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+
+        <!--swagger2 api接口规范框架 集成knife4j-->
         <!-- https://doc.xiaominfo.com/knife4j/documentation/ -->
         <dependency>
             <groupId>com.github.xiaoymin</groupId>
